@@ -54,3 +54,4 @@ own_window_colour 000000
 TEXT
 ${offset 636}${voffset 223}${font Roboto:size=12}${time %l:%M %P }
 ${offset 630}${voffset 5}${font Roboto:size=35}Solus
+
